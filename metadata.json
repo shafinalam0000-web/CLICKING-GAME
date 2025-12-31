@@ -1,0 +1,9 @@
+{
+  "name": " CLICK CLASH",
+  "description": "You just click..",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
